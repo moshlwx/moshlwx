@@ -2,7 +2,7 @@
 - 👀 I’m interested in data process
 - 🌱 I’m currently learning java and flink
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 1298097710@qq.com
+- 📫 How to reach me 1298076610@qq.com
 
 <!---
 moshlwx/moshlwx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
